@@ -1,9 +1,11 @@
 ### Hey, I'm Diana (Yiyang Wang) 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hello-diana&label=Views&color=0e75b6&style=flat)](https://github.com/hello-diana)
+[![RedNote](https://img.shields.io/badge/RedNote-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.rednote.com/user/profile/5cd2d86c00000000160075f8) [![Profile Views](https://komarev.com/ghpvc/?username=hello-diana&label=Views&color=0e75b6&style=flat)](https://github.com/hello-diana)
 
 - 🎓 Ph.D. in Computer Science at the **Georgia Institute of Technology**
 - 🔬 Research areas: **AI**, **Large Language Models**, **Human–AI Interaction**
+- 🧪 Research Scientist Intern @ **Microsoft Research** (2026) and **Dolby Research** (2025)
+- 💻 Software Engineer Intern @ **Amazon** and **HubSpot**
 - 🌱 Building intelligent technologies that augment human capabilities and improve real-world decision making
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/)
 
@@ -35,6 +37,7 @@ I'm especially interested in research and collaboration on:
 - 🌐 [Website](https://hello-diana.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en)
+- 📕 [RedNote (小红书)](https://www.rednote.com/user/profile/5cd2d86c00000000160075f8)
 
 ---
 
