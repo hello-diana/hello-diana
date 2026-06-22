@@ -5,7 +5,7 @@
 - 🎓 Ph.D. in Computer Science at the **Georgia Institute of Technology**
 - 🔬 Research areas: **AI**, **Large Language Models**, **Human–AI Interaction**
 - 🌱 Building intelligent technologies that augment human capabilities and improve real-world decision making
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/) or my [Website](https://hello-diana.github.io/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/)
 
 My research lies at the intersection of **AI**, **Large Language Models**, and **human–AI interaction**, with the goal of developing intelligent technologies that augment human capabilities and improve real-world decision making. I design and evaluate AI systems that are **collaborative**, **effective**, and **grounded in human needs**.
 
@@ -34,12 +34,13 @@ I'm especially interested in research and collaboration on:
 
 - 🌐 [Website](https://hello-diana.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-diana&show_icons=true&line_height=22&theme=tokyonight)
+<!-- ![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-diana&show_icons=true&line_height=22&theme=tokyonight) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-diana&layout=compact&theme=tokyonight)
 
