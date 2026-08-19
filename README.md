@@ -15,7 +15,7 @@ My research lies at the intersection of **AI**, **Large Language Models**, and *
 
 ## 🔭 Selected Work
 
-- [**MASCOT_dev**](https://github.com/hello-diana/MASCOT_dev) — improving multi-agent AI systems for socio-collaborative tasks.
+- [**MASCOT**]((https://github.com/hello-diana/MASCOT) — improving multi-agent AI systems for socio-collaborative tasks.
 - [**CultivAgents**](https://github.com/hello-diana/CultivAgents) — multi-agent framework for studying agent collaboration and decision making.
 - [**AgentReview**](https://github.com/Ahren09/AgentReview) — LLM-agent framework for exploring academic peer-review dynamics.
 - [**FromPuffsToPatterns**](https://github.com/hello-diana/FromPuffsToPatterns) — data-driven analysis project uncovering patterns from raw signals.
