@@ -40,13 +40,6 @@ I'm especially interested in research and collaboration on:
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- ![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-diana&show_icons=true&line_height=22&theme=tokyonight) -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-diana&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Reach Out
 
